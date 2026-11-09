@@ -1,4 +1,4 @@
-# ROADMAP — Calculadora de Matemática Aplicada
+# ROADMAP — Mateplicada
 
 > *Uma Calculadora desenvolvida por Hivezy.*
 
