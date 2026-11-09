@@ -1,4 +1,4 @@
-# Calculadora de Matemática Aplicada
+# Mateplicada
 
 > *Uma calculadora desenvolvida por Hivezy.*
 
@@ -97,6 +97,8 @@ O objetivo é evitar depender inicialmente de bibliotecas que realizem automatic
 
 ## Status
 
-🚧 Projeto em desenvolvimento.
+🚧 **Projeto em desenvolvimento.**
 
-O projeto está em sua fase inicial de planejamento e estruturação.
+A estrutura inicial do projeto foi concluída e a calculadora básica já realiza as quatro operações matemáticas, com validação de entradas e tratamento de divisão por zero.
+
+Atualmente, o desenvolvimento está concentrado na finalização da calculadora básica e na preparação para a implementação de uma interface gráfica.

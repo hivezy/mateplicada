@@ -29,24 +29,36 @@ O projeto será desenvolvido progressivamente, acompanhando os conteúdos estuda
 - [x] Implementar divisão
 - [x] Tratar entradas inválidas
 - [x] Tratar divisão por zero
-- [ ] A calculadora continuar sendo executada até receber o comando de encerramento.
-- [ ] A calculadora ter a opção de voltar para a etapa anterior.
+- [ ] Permitir corrigir ou retornar às etapas anteriores.
+- [ ] Permitir encerrar a calculadora durante a entrada de dados.
 
 ---
 
-## Missão 2 — Expressões Numéricas
+## Missão 2 — Interface
+
+- [ ] Planejar a interface
+- [ ] Separar a lógica matemática da interação com o usuário
+- [ ] Desenvolver uma interface intuitiva
+- [ ] Integrar os módulos matemáticos à interface
+- [ ] Manter a calculadora disponível para novos cálculos sem reiniciar o programa.
+
+> Interface em função da Calculadora Básica, tudo adicionado a seguir disso será implementado com a interface, pensando em Frontend e Backend simultaneamente, mas cada um com suas responsabilidades bem definidas.
+
+---
+
+## Missão 3 — Expressões Numéricas
 
 - [ ] Implementar potenciação
 - [ ] Implementar radiciação
-- [ ] Trabalhar com números negativos
-- [ ] Trabalhar com números decimais
+- [ ] Interpretar números negativos em expressões
+- [ ] Interpretar números decimais em expressões
 - [ ] Respeitar a ordem das operações
 - [ ] Trabalhar com símbolos de agrupamento
 - [ ] Resolver expressões numéricas completas
 
 ---
 
-## Missão 3 — Conjuntos Numéricos
+## Missão 4 — Conjuntos Numéricos
 
 - [ ] Identificar números naturais
 - [ ] Identificar números inteiros
@@ -57,7 +69,7 @@ O projeto será desenvolvido progressivamente, acompanhando os conteúdos estuda
 
 ---
 
-## Missão 4 — Razões e Proporções
+## Missão 5 — Razões e Proporções
 
 - [ ] Implementar razão
 - [ ] Implementar proporção
@@ -65,7 +77,7 @@ O projeto será desenvolvido progressivamente, acompanhando os conteúdos estuda
 
 ---
 
-## Missão 5 — Relações e Funções
+## Missão 6 — Relações e Funções
 
 - [ ] Implementar relações
 - [ ] Implementar funções
@@ -74,7 +86,7 @@ O projeto será desenvolvido progressivamente, acompanhando os conteúdos estuda
 
 ---
 
-## Missão 6 — Matrizes e Determinantes
+## Missão 7 — Matrizes e Determinantes
 
 - [ ] Criar matrizes
 - [ ] Exibir matrizes
@@ -84,7 +96,7 @@ O projeto será desenvolvido progressivamente, acompanhando os conteúdos estuda
 
 ---
 
-## Missão 7 — Sistemas Lineares
+## Missão 8 — Sistemas Lineares
 
 - [ ] Representar sistemas lineares
 - [ ] Resolver sistemas lineares
@@ -92,7 +104,7 @@ O projeto será desenvolvido progressivamente, acompanhando os conteúdos estuda
 
 ---
 
-## Missão 8 — Áreas e Volumes
+## Missão 9 — Áreas e Volumes
 
 - [ ] Calcular áreas
 - [ ] Calcular volumes
@@ -100,20 +112,11 @@ O projeto será desenvolvido progressivamente, acompanhando os conteúdos estuda
 
 ---
 
-## Missão 9 — Modo Aprendizado
+## Missão 10 — Modo Aprendizado
 
 - [ ] Exibir o desenvolvimento dos cálculos
 - [ ] Explicar as etapas das resoluções
 - [ ] Diferenciar o modo Calculadora do modo Aprendizado
-
----
-
-## Missão 10 — Interface
-
-- [ ] Planejar a interface
-- [ ] Desenvolver uma interface intuitiva
-- [ ] Integrar os módulos matemáticos à interface
-- [ ] Melhorar a experiência de uso
 
 ---
 

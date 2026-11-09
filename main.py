@@ -1,5 +1,5 @@
 print("=" * 90)
-print("CALCULADORA DE MATEMÁTICA APLICADA")
+print("MATEPLICADA")
 print("Uma calculadora desenvolvida por Hivezy.")
 print("Com a finalidade de auxiliar estudantes e profissionais em cálculos matemáticos, ")
 print("esta ferramenta oferece uma interface simples e intuitiva para realizar operações básicas e avançadas.")
@@ -22,7 +22,6 @@ while True:
     print("-")
     print("*")
     print("/")
-    print("Sair")
 
     opcao = input("\nDigite uma opção: ").strip().lower()
 
@@ -42,14 +41,8 @@ while True:
         print("\nVocê escolheu Divisão.")
         break
 
-    elif opcao == "sair":
-        print("\nSaindo da calculadora. Até logo!")
-        exit()
-
     else:
         print("\nIsso não é uma operação matemática. Revise")
-
-print("\nDigite os números que deseja calcular:")
 
 while True:
     try:
@@ -81,6 +74,3 @@ elif opcao == "*":
 elif opcao == "/":
     resultado = num1 / num2
     print(f"\nO resultado da divisão é: {resultado}")
-
-else:
-    print("\nOperação inválida. Por favor, reinicie a calculadora e escolha uma operação válida.")
